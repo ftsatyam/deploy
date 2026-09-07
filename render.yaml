@@ -17,3 +17,7 @@ services:
         sync: false
       - key: OWNER_ID
         sync: false
+      - key: UPSTREAM_REPO
+        sync: false
+      - key: UPSTREAM_BRANCH
+        sync: false
