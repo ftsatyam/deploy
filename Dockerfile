@@ -1,4 +1,4 @@
-FROM thezake/dev:latest 
+FROM thezake/test:v1
 
 WORKDIR /usr/src/app
 
